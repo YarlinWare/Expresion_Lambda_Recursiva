@@ -1,4 +1,5 @@
-# Ejercicio 4: Implementación Funciones Lambda
+# Ejercicio 4: 
+##Implementación Funciones Lambda
 ### Función Lambda con recursividad [Sucesión de Fibonacci, Factorial]
 ##### Modelos de programación II - G.020-82
 
@@ -7,11 +8,11 @@
 Se desarrolla ejercicio de implementación de funciones anónimas Lambda con recursiva en python, para resolver la implementación de sucesiones de Fibonacci y El factorial de un numero determinado.
 
 
-##### Funciones lambda
+#### Funciones lambda
 
 El operador lambda sirve para crear funciones anónimas en línea. Al ser funciones anónimas, es decir, sin nombre, estas no podrán ser referenciadas más tarde.
 
-Las funciones lambda se construyen mediante el operador lambda, los parámetros de la función separados por comas (atención, SIN parénte-sis), dos puntos (:) y el código de la función.
+Las funciones lambda se construyen mediante el operador lambda, los parámetros de la función separados por comas (atención, SIN paréntesis), dos puntos (:) y el código de la función.
 
 Ejemplo:
 ```
