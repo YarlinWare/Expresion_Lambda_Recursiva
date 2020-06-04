@@ -67,8 +67,8 @@ factorial = (lambda fun: lambda arg: fun(fun,arg)) (lambda f,a: 1 if a ==0 else 
 
 
 #### Referencias
-+[1] `Python para todos - Raúl González Duque`: [PDF](http://www.utic.edu.py/citil/images/Manuales/Python_para_todos.pdf)
-+[2] `Héctor Costa Guzmán`: [BLOG](https://docs.hektorprofe.net/python/funcionalidades-avanzadas/funciones-lambda/)
++ [1] `Python para todos - Raúl González Duque`: [PDF](http://www.utic.edu.py/citil/images/Manuales/Python_para_todos.pdf)
++ [2] `Héctor Costa Guzmán`: [BLOG](https://docs.hektorprofe.net/python/funcionalidades-avanzadas/funciones-lambda/)
 
 
 #### Equipo de trabajo
